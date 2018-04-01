@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271260364561",
+    "firebase_url": "https://wiradhikadwiputra.firebaseio.com",
+    "project_id": "wiradhikadwiputra",
+    "storage_bucket": "wiradhikadwiputra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271260364561:android:7dfe5c07c502dbf5",
+        "android_client_info": {
+          "package_name": "com.example.wiradhikadwiputra.wiradhikadwiputra_1202151228_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271260364561-gqjngvvp27mj9fj3njnvtjho0vph6ol8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wiradhikadwiputra.wiradhikadwiputra_1202151228_modul6",
+            "certificate_hash": "2462ae2793a670e05c29a16a6447157f205c517c"
+          }
+        },
+        {
+          "client_id": "271260364561-qqdqgjgorv9vediffi8sokro3crhgj66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1Q-YCsJo-bvuY26CextBvFf9EjTi9xE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271260364561-qqdqgjgorv9vediffi8sokro3crhgj66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
